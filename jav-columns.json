@@ -1,0 +1,630 @@
+{
+  "name": "rex icons · javbus 栏目",
+  "description": "rex icons · javbus 栏目",
+  "icons": [
+    {
+      "name": "番号",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao.png"
+    },
+    {
+      "name": "厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai.png"
+    },
+    {
+      "name": "片商",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_pianshang.png"
+    },
+    {
+      "name": "身份",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen.png"
+    },
+    {
+      "name": "FANZA 女优",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanza_nvyou.png"
+    },
+    {
+      "name": "JavDB 女优",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_javdb_nvyou.png"
+    },
+    {
+      "name": "档案",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan.png"
+    },
+    {
+      "name": "关系",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi.png"
+    },
+    {
+      "name": "题材",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai.png"
+    },
+    {
+      "name": "画质规格",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi.png"
+    },
+    {
+      "name": "声效语言",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao.png"
+    },
+    {
+      "name": "发行版本",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_faxing.png"
+    },
+    {
+      "name": "产品体量",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin.png"
+    },
+    {
+      "name": "市场口碑与运营",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang.png"
+    },
+    {
+      "name": "播放资源",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_bofang.png"
+    },
+    {
+      "name": "各站趋势榜单",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_gezhan_qushi.png"
+    },
+    {
+      "name": "综合热门",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_zonghe_remen.png"
+    },
+    {
+      "name": "主力系列",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao_zhuli.png"
+    },
+    {
+      "name": "字母前缀精准匹配",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao_zimu.png"
+    },
+    {
+      "name": "厂牌代号演变与映射链",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao_yanbian.png"
+    },
+    {
+      "name": "前缀更迭与旧码映射追踪",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao_genggai.png"
+    },
+    {
+      "name": "子厂牌与独立工作室代号继承",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_fanhao_jicheng.png"
+    },
+    {
+      "name": "母集团与核心发行网络",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_jituan.png"
+    },
+    {
+      "name": "子厂牌与垂直细分品牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_zipinpai.png"
+    },
+    {
+      "name": "独立工作室与地下厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_duli.png"
+    },
+    {
+      "name": "顶尖美少女与偶像专属厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_meishaonv.png"
+    },
+    {
+      "name": "熟女、人妻与成熟女性专属厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_shunv.png"
+    },
+    {
+      "name": "巨乳、爆乳与身材特化厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_baoru.png"
+    },
+    {
+      "name": "纯爱、单体剧情与高端企划厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_chunai.png"
+    },
+    {
+      "name": "综艺、恶搞与素人企划厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_zongyi.png"
+    },
+    {
+      "name": "高端独立单体工作室",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_gaoduan.png"
+    },
+    {
+      "name": "极重口味、暗黑与BDSM地下厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_anhei.png"
+    },
+    {
+      "name": "素人纪实、街采与真实采访独立厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_sujiao.png"
+    },
+    {
+      "name": "VR专用、同人及独立小众新锐厂牌",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_changpai_vr.png"
+    },
+    {
+      "name": "演员属性与分类",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_shuxing.png"
+    },
+    {
+      "name": "行业状态标签",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_zhuangtai.png"
+    },
+    {
+      "name": "专属演员",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_zhuanshu.png"
+    },
+    {
+      "name": "企划演员",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_qihua.png"
+    },
+    {
+      "name": "自由身",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_ziyou.png"
+    },
+    {
+      "name": "素人",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_suren.png"
+    },
+    {
+      "name": "模特风格",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_mote.png"
+    },
+    {
+      "name": "视觉系写真专属企划",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_xiezhen.png"
+    },
+    {
+      "name": "偶像与艺人",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_ouxiang.png"
+    },
+    {
+      "name": "处女身份",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_chunu.png"
+    },
+    {
+      "name": "特殊群体身份",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_teshu.png"
+    },
+    {
+      "name": "外国与多元演员",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_waiguo.png"
+    },
+    {
+      "name": "新人出道",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_xinren.png"
+    },
+    {
+      "name": "引退状态",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_yintui.png"
+    },
+    {
+      "name": "复归",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shenfen_fugui.png"
+    },
+    {
+      "name": "中文译名对照表",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_yiming.png"
+    },
+    {
+      "name": "年龄世代与人群筛选",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_nianling.png"
+    },
+    {
+      "name": "青少年及年轻世代（18-19岁）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_age18.png"
+    },
+    {
+      "name": "20多岁前半（20-24岁）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_age20.png"
+    },
+    {
+      "name": "20多岁后半（25-29岁）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_age25.png"
+    },
+    {
+      "name": "30多岁（30-39岁）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_age30.png"
+    },
+    {
+      "name": "40多岁",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_age40.png"
+    },
+    {
+      "name": "男性与其他群体",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_nanxing.png"
+    },
+    {
+      "name": "身体物理参数",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_shenti.png"
+    },
+    {
+      "name": "身高筛选",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_shengao.png"
+    },
+    {
+      "name": "三围与体型筛选",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_sanwei.png"
+    },
+    {
+      "name": "罩杯筛选",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_dangan_zhaobei.png"
+    },
+    {
+      "name": "多演员共演",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_gongyan.png"
+    },
+    {
+      "name": "人际关联",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_renji.png"
+    },
+    {
+      "name": "双人共演组合",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_shuangren.png"
+    },
+    {
+      "name": "多人群像与乱交检索",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_duoren.png"
+    },
+    {
+      "name": "童年朋友",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_tongnian.png"
+    },
+    {
+      "name": "情侣、夫妻及交换关系",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_guanxi_qinglv.png"
+    },
+    {
+      "name": "社会身份",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_shehui.png"
+    },
+    {
+      "name": "剧情冲突",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_juqing.png"
+    },
+    {
+      "name": "视觉变装",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_bianzhuang.png"
+    },
+    {
+      "name": "空间环境",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_kongjian.png"
+    },
+    {
+      "name": "外貌体型",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_waimao.png"
+    },
+    {
+      "name": "核心互动",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_hudong.png"
+    },
+    {
+      "name": "特殊设定与纪实",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_teshu.png"
+    },
+    {
+      "name": "家庭与亲属系列",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_jiating.png"
+    },
+    {
+      "name": "职场与社会身份",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_zhichang.png"
+    },
+    {
+      "name": "校园与青春系列",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_xiaoyuan.png"
+    },
+    {
+      "name": "特殊职业与邻里",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_linli.png"
+    },
+    {
+      "name": "NTR与背叛系列",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_ntr.png"
+    },
+    {
+      "name": "权力支配与SM调教",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_sm.png"
+    },
+    {
+      "name": "胁迫与极限境遇",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_xiepo.png"
+    },
+    {
+      "name": "职业制服",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_zhifu.png"
+    },
+    {
+      "name": "校园运动装与服饰",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_yundong.png"
+    },
+    {
+      "name": "风格专场与角色扮演",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_cosplay.png"
+    },
+    {
+      "name": "公共与户外",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_huwai.png"
+    },
+    {
+      "name": "私密与特定室内",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_shinei.png"
+    },
+    {
+      "name": "身材尺寸",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_shencai.png"
+    },
+    {
+      "name": "外貌与时尚",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_shishang.png"
+    },
+    {
+      "name": "情感与行为风格",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_qinggan.png"
+    },
+    {
+      "name": "接触偏好",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_jiechu.png"
+    },
+    {
+      "name": "生理与独处结果",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_shengli.png"
+    },
+    {
+      "name": "听觉与道具沉浸",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_tingjue.png"
+    },
+    {
+      "name": "女同与百合",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_nvtong.png"
+    },
+    {
+      "name": "扶她与性别转换",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_futa.png"
+    },
+    {
+      "name": "企划综艺与搞笑恶搞",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_gaoxiao.png"
+    },
+    {
+      "name": "素人街采、纪实搭讪与纪录片",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_jishi.png"
+    },
+    {
+      "name": "粉丝感谢祭与粉丝访问",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_fensi.png"
+    },
+    {
+      "name": "幻想题材与时间停止",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_huanxiang.png"
+    },
+    {
+      "name": "动画、特摄与科幻魔法少女",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_ticai_donghua.png"
+    },
+    {
+      "name": "分辨率",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_fenbianlv.png"
+    },
+    {
+      "name": "4K 超高清与 8K VR",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_4k8k.png"
+    },
+    {
+      "name": "1080P 全高清",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_1080p.png"
+    },
+    {
+      "name": "蓝光（Blu-ray）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_languang.png"
+    },
+    {
+      "name": "经典复刻重制",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_fuke.png"
+    },
+    {
+      "name": "拍摄形式",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_paishe.png"
+    },
+    {
+      "name": "VR 全景与虚拟现实",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_vr.png"
+    },
+    {
+      "name": "多机位特写与近距离",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_duojiwei.png"
+    },
+    {
+      "name": "单视角、主观视角（POV）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_pov.png"
+    },
+    {
+      "name": "3D 动画与三维渲染",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_3d.png"
+    },
+    {
+      "name": "载体介质",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_zaiti.png"
+    },
+    {
+      "name": "实体光盘（DVD、BD）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_guangpan.png"
+    },
+    {
+      "name": "数字流媒体点播与仅配送",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_huazhi_liumeiti.png"
+    },
+    {
+      "name": "声音技术",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_jishu.png"
+    },
+    {
+      "name": "Binaural 双耳立体声",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_binaural.png"
+    },
+    {
+      "name": "ASMR 环绕收音",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_asmr.png"
+    },
+    {
+      "name": "后期特效音处理",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_houqi.png"
+    },
+    {
+      "name": "语言支持",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_yuyan.png"
+    },
+    {
+      "name": "官方中文字幕（简繁）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_zimu.png"
+    },
+    {
+      "name": "无对白、纯视听",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shengxiao_wuduibai.png"
+    },
+    {
+      "name": "生命周期状态",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_faxing_shengming.png"
+    },
+    {
+      "name": "日本国内有码版",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_faxing_guonei.png"
+    },
+    {
+      "name": "弱码版与危险马赛克",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_faxing_ruoma.png"
+    },
+    {
+      "name": "现行在售与限时促销",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_faxing_zaishou.png"
+    },
+    {
+      "name": "单体作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_danti.png"
+    },
+    {
+      "name": "4小时及16小时以上超长片",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_changpian.png"
+    },
+    {
+      "name": "4小时以上作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_4h.png"
+    },
+    {
+      "name": "16小时以上作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_16h.png"
+    },
+    {
+      "name": "10碟套装",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_10die.png"
+    },
+    {
+      "name": "总集篇、精选合辑与多个故事",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_zongji.png"
+    },
+    {
+      "name": "女优精选与总集篇",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_nvyoujingxuan.png"
+    },
+    {
+      "name": "产品体量·合集",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_heji.png"
+    },
+    {
+      "name": "故事集",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_gushiji.png"
+    },
+    {
+      "name": "迷你系列",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_mini.png"
+    },
+    {
+      "name": "周年纪念作与独立制作",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_zhounian.png"
+    },
+    {
+      "name": "纪录片、电视剧与戏剧片",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_jilupian.png"
+    },
+    {
+      "name": "戏剧",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_xiju.png"
+    },
+    {
+      "name": "V 电影（录像电影）",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_vdianying.png"
+    },
+    {
+      "name": "产品体量·纪录片",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_jilu.png"
+    },
+    {
+      "name": "动作",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_dongzuo.png"
+    },
+    {
+      "name": "恐怖",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_kongbu.png"
+    },
+    {
+      "name": "心理惊悚",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_jingsong.png"
+    },
+    {
+      "name": "教学",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_jiaoxue.png"
+    },
+    {
+      "name": "教学与性教育",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_xingjiaoyu.png"
+    },
+    {
+      "name": "给女性观众",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_nvxing.png"
+    },
+    {
+      "name": "产品体量·其他",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_chanpin_qita.png"
+    },
+    {
+      "name": "行业官方奖项",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_jiangxiang.png"
+    },
+    {
+      "name": "FANZA Adult Award 获奖与各项大奖",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_huojiang.png"
+    },
+    {
+      "name": "提名作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_timing.png"
+    },
+    {
+      "name": "殿堂级作品、名人堂作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_diantang.png"
+    },
+    {
+      "name": "市场热度指标",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_redu.png"
+    },
+    {
+      "name": "DMM独家发布",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_dujia.png"
+    },
+    {
+      "name": "原创合作、企划与折扣促销",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_hezuo.png"
+    },
+    {
+      "name": "用户提交与额外特典影像",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_yonghu.png"
+    },
+    {
+      "name": "用户口碑评分",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_koubei.png"
+    },
+    {
+      "name": "社区高分神作",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_shenzuo.png"
+    },
+    {
+      "name": "经典作品",
+      "url": "https://raw.githubusercontent.com/Ocean-woo/icons/main/Col_shichang_jingdian.png"
+    }
+  ]
+}
